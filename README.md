@@ -12,7 +12,7 @@ and the ideas they share with the world.
 <img width="128" align='right' style="padding:16px" src="./images/construction.svg"/>
 
 Platforms that I love working with personally and professionally.
-I also enjoy manu other languages and frameworks not listed here, as they each have their own merits.
+I also enjoy many other languages and frameworks not listed here, as they each have their own merits.
 These are my current "daily drivers".
 
 [![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)](https://docs.python.org/)
@@ -61,7 +61,7 @@ building custom water-cooled PCs, and building Death Stars (3D modeling/printing
 [![3D Printing](https://img.shields.io/badge/3d_design%2Fprinting-white?style=for-the-badge&logo=thingiverse&logoColor=white&labelColor=%23248BFB&color=%23248BFB)](https://www.thingiverse.com/)
 <br/>
 
-## My Guidelines/Clichés (mostly for development, but also life in general)
+## My Guidelines (mostly for development, but also life in general)
 
 - **Always ask "What could go wrong?"**
 

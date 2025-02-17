@@ -58,7 +58,8 @@ building custom water-cooled PCs, and building Death Stars (3D modeling/printing
 [![C++](https://img.shields.io/badge/c%2Fc%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=%2300599C&color=%2300599C)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-white?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=%23A22846&color=%23A22846)](https://www.raspberrypi.com/)
 [![Arduino](https://img.shields.io/badge/arduino-white?style=for-the-badge&logo=arduino&logoColor=white&labelColor=%2300979D&color=%2300979D)](https://www.arduino.cc/)
-[![3D Printing](https://img.shields.io/badge/3d_design%2Fprinting-white?style=for-the-badge&logo=thingiverse&logoColor=white&labelColor=%23248BFB&color=%23248BFB)](https://www.thingiverse.com/)
+[![3D Printing](https://img.shields.io/badge/3d_printing-white?style=for-the-badge&logo=thingiverse&logoColor=white&labelColor=%23248BFB&color=%23248BFB)](https://www.thingiverse.com/)
+[![AI](https://img.shields.io/badge/AI%2FML-white?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=%23FCC624&color=%23FCC624)](https://huggingface.co/)
 <br/>
 
 ## My Guidelines (mostly for development, but also life in general)
@@ -67,12 +68,6 @@ building custom water-cooled PCs, and building Death Stars (3D modeling/printing
 
   Take a close look at everything you do, and try to understand the impact it may have on others.
   Don't make someone else clean up your mess.
-
-
-- **Sometimes it's okay to be a "Cowboy/Cowgirl"**
-
-  When people are telling you "no", ask yourself: are they doing it selfishly, or are they thinking about others?
-  At the end of the day, you answer to yourself, so if you are thinking about others, and it feels right, do it.
 
 
 - **Take pride in everything**
@@ -85,3 +80,9 @@ building custom water-cooled PCs, and building Death Stars (3D modeling/printing
 
   Treat each day like it's your last, and leave the world in a better place than when you found it.
   Help encourage others to do good works, and continue yours where you leave off.
+
+
+- **Sometimes it's okay to be a Cowboy**
+
+  When people are telling you "no", ask yourself: are they doing it selfishly, or are they thinking about others?
+  At the end of the day, you answer to yourself, so if you are thinking about others, and it feels right, do it.
